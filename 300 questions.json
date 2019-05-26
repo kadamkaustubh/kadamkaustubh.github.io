@@ -1,0 +1,2095 @@
+[
+  {
+    "rank": "1",
+    "question": "WHAT IS THE NAME OF THE HORSE-LIKE ANIMAL WITH BLACK AND WHITE STRIPES?",
+    "answer": "ZEBRA",
+    "percentage": "93.30",
+    "response_time": "6.3"
+  },
+  {
+    "rank": "2",
+    "question": "WHAT IS THE NAME OF THE LONG SLEEP SOME ANIMALS GO THROUGH DURING THE ENTIRE WINTER?",
+    "answer": "HIBERNATION",
+    "percentage": "89.00",
+    "response_time": "9.6"
+  },
+  {
+    "rank": "3",
+    "question": "WHAT IS THE NAME OF THE RUBBER OBJECT THAT IS HIT BACK AND FORTH BY HOCKEY PLAYERS?",
+    "answer": "PUCK",
+    "percentage": "88.80",
+    "response_time": "6.7"
+  },
+  {
+    "rank": "4",
+    "question": "WHAT IS THE NAME OF THE REMAINS OF PLANTS AND ANIMALS THAT ARE FOUND IN STONE?",
+    "answer": "FOSSILS",
+    "percentage": "87.30",
+    "response_time": "9.1"
+  },
+  {
+    "rank": "5",
+    "question": "WHICH PRECIOUS GEM IS RED?",
+    "answer": "RUBY",
+    "percentage": "84.90",
+    "response_time": "4.6"
+  },
+  {
+    "rank": "6",
+    "question": "WHAT IS THE NAME OF THE SEVERE HEADACHE THAT RETURNS PERIODICALLY AND OFTEN IS ACCOMPANIED BY NAUSEA?",
+    "answer": "MIGRAINE",
+    "percentage": "84.70",
+    "response_time": "10.2"
+  },
+  {
+    "rank": "7",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE “ROMEO AND JULIET”?",
+    "answer": "SHAKESPEARE",
+    "percentage": "84.30",
+    "response_time": "10.8"
+  },
+  {
+    "rank": "8",
+    "question": "WHAT IS THE NAME OF A DRIED GRAPE?",
+    "answer": "RAISIN",
+    "percentage": "83.50",
+    "response_time": "6.8"
+  },
+  {
+    "rank": "9",
+    "question": "WHAT IS THE NAME OF THE COMIC STRIP CHARACTER WHO EATS SPINACH TO INCREASE HIS STRENGTH?",
+    "answer": "POPEYE",
+    "percentage": "82.40",
+    "response_time": "8.5"
+  },
+  {
+    "rank": "10",
+    "question": "WHAT ANIMAL RUNS THE FASTEST?",
+    "answer": "CHEETAH",
+    "percentage": "81.60",
+    "response_time": "5.6"
+  },
+  {
+    "rank": "11",
+    "question": "WHAT IS THE NAME OF THE PROCESS BY WHICH PLANTS MAKE THEIR FOOD?",
+    "answer": "PHOTOSYNTHESIS",
+    "percentage": "80.00",
+    "response_time": "11.8"
+  },
+  {
+    "rank": "12",
+    "question": "WHAT IS THE NAME OF DOROTHY’S DOG IN “THE WIZARD OF OZ”?",
+    "answer": "TOTO",
+    "percentage": "79.90",
+    "response_time": "6.7"
+  },
+  {
+    "rank": "13",
+    "question": "WHAT IS THE NAME OF THE MOLTEN ROCK THAT RUNS DOWN THE SIDE OF A VOLCANO DURING AN ERUPTION?",
+    "answer": "LAVA",
+    "percentage": "79.30",
+    "response_time": "8.6"
+  },
+  {
+    "rank": "14",
+    "question": "WHAT WAS THE NAME OF THE SUPPOSEDLY UNSINKABLE SHIP THAT SUNK ON ITS MAIDEN VOYAGE IN 1912?",
+    "answer": "TITANIC",
+    "percentage": "78.90",
+    "response_time": "9.3"
+  },
+  {
+    "rank": "15",
+    "question": "WHICH SPORT USES THE TERMS “GUTTER” AND “ALLEY”?",
+    "answer": "BOWLING",
+    "percentage": "78.80",
+    "response_time": "6.6"
+  },
+  {
+    "rank": "16",
+    "question": "WHAT IS THE NAME OF A GIANT OCEAN WAVE CAUSED BY AN EARTHQUAKE?",
+    "answer": "TSUNAMI",
+    "percentage": "78.40",
+    "response_time": "10.5"
+  },
+  {
+    "rank": "17",
+    "question": "WHAT IS THE TERM FOR HITTING A VOLLEYBALL DOWN HARD INTO THE OPPONENT’S COURT?",
+    "answer": "SPIKE",
+    "percentage": "78.40",
+    "response_time": "7.2"
+  },
+  {
+    "rank": "18",
+    "question": "WHAT IS THE LAST NAME OF THE VILLAINOUS CAPTAIN IN THE STORY “PETER PAN”?",
+    "answer": "HOOK",
+    "percentage": "78.10",
+    "response_time": "8.5"
+  },
+  {
+    "rank": "19",
+    "question": "WHAT WAS THE NAME OF TARZAN’S GIRLFRIEND?",
+    "answer": "JANE",
+    "percentage": "78.10",
+    "response_time": "4.3"
+  },
+  {
+    "rank": "20",
+    "question": "WHAT IS THE LAST NAME OF THE BROTHERS WHO FLEW THE FIRST AIRPLANE AT KITTY HAWK?",
+    "answer": "WRIGHT",
+    "percentage": "75.10",
+    "response_time": "8.6"
+  },
+  {
+    "rank": "21",
+    "question": "WHAT IS THE NAME FOR A MEDICAL DOCTOR WHO SPECIALIZES IN CUTTING THE BODY?",
+    "answer": "SURGEON",
+    "percentage": "74.80",
+    "response_time": "11.5"
+  },
+  {
+    "rank": "22",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST PERSON TO SET FOOT ON THE MOON?",
+    "answer": "ARMSTRONG",
+    "percentage": "74.10",
+    "response_time": "11"
+  },
+  {
+    "rank": "23",
+    "question": "WHAT IS THE CAPITAL OF FRANCE?",
+    "answer": "PARIS",
+    "percentage": "73.00",
+    "response_time": "5.8"
+  },
+  {
+    "rank": "24",
+    "question": "WHAT IS THE NAME OF THE CRIME IN WHICH A BUILDING OR PROPERTY IS PURPOSELY SET ON FIRE?",
+    "answer": "ARSON",
+    "percentage": "72.20",
+    "response_time": "8.6"
+  },
+  {
+    "rank": "25",
+    "question": "WHAT IS THE NAME OF THE SHORT PLEATED SKIRT WORN BY MEN IN SCOTLAND?",
+    "answer": "KILT",
+    "percentage": "71.70",
+    "response_time": "6.7"
+  },
+  {
+    "rank": "26",
+    "question": "WHAT IS THE NAME OF AN INABILITY TO SLEEP?",
+    "answer": "INSOMNIA",
+    "percentage": "71.40",
+    "response_time": "7.6"
+  },
+  {
+    "rank": "27",
+    "question": "WHAT IS THE NAME FOR A MEDICAL DOCTOR WHO SPECIALIZES IN DISEASES OF THE SKIN?",
+    "answer": "DERMATOLOGIST",
+    "percentage": "69.20",
+    "response_time": "12.3"
+  },
+  {
+    "rank": "28",
+    "question": "WHAT IS THE NAME OF THE LARGEST OCEAN ON EARTH?",
+    "answer": "PACIFIC",
+    "percentage": "68.50",
+    "response_time": "8.1"
+  },
+  {
+    "rank": "29",
+    "question": "WHAT IS THE NAME OF THE SHIP THAT CARRIED THE PILGRIMS TO AMERICA IN 1620?",
+    "answer": "MAYFLOWER",
+    "percentage": "66.30",
+    "response_time": "8.5"
+  },
+  {
+    "rank": "30",
+    "question": "WHAT IS THE NAME FOR A CYCLONE THAT OCCURS OVER LAND?",
+    "answer": "TORNADO",
+    "percentage": "64.10",
+    "response_time": "8"
+  },
+  {
+    "rank": "31",
+    "question": "WHICH SPORT IS ASSOCIATED WITH WIMBLEDON?",
+    "answer": "TENNIS",
+    "percentage": "61.90",
+    "response_time": "5.4"
+  },
+  {
+    "rank": "32",
+    "question": "WHAT IS THE NAME OF THE BIRD THAT CANNOT FLY AND IS THE LARGEST BIRD ON EARTH?",
+    "answer": "OSTRICH",
+    "percentage": "60.30",
+    "response_time": "11.7"
+  },
+  {
+    "rank": "33",
+    "question": "WHAT IS THE NAME OF THE ISLAND-CITY BELIEVED SINCE ANTIQUITY TO HAVE SUNK INTO THE OCEAN?",
+    "answer": "ATLANTIS",
+    "percentage": "59.30",
+    "response_time": "11.7"
+  },
+  {
+    "rank": "34",
+    "question": "WHAT IS THE NAME OF THE LIZARD THAT CHANGES ITS COLOR TO MATCH THE SURROUNDINGS?",
+    "answer": "CHAMELEON",
+    "percentage": "58.90",
+    "response_time": "11.3"
+  },
+  {
+    "rank": "35",
+    "question": "WHAT IS THE NAME OF THE THICK LAYER OF FAT ON A WHALE?",
+    "answer": "BLUBBER",
+    "percentage": "57.20",
+    "response_time": "6.2"
+  },
+  {
+    "rank": "36",
+    "question": "WHAT IS THE LAST NAME OF THE BASEBALL PLAYER WHO HAD THE MOST HOME RUNS IN A SINGLE SEASON PRIOR TO 1961?",
+    "answer": "RUTH",
+    "percentage": "56.80",
+    "response_time": "12.3"
+  },
+  {
+    "rank": "37",
+    "question": "WHAT IS THE NAME OF A YOUNG SHEEP?",
+    "answer": "LAMB",
+    "percentage": "56.10",
+    "response_time": "7.8"
+  },
+  {
+    "rank": "38",
+    "question": "WHAT IS THE LARGEST PLANET IN THE SOLAR SYSTEM?",
+    "answer": "JUPITER",
+    "percentage": "55.90",
+    "response_time": "8.1"
+  },
+  {
+    "rank": "39",
+    "question": "WHAT IS THE NAME OF THE NAVIGATION INSTRUMENT USED AT SEA TO PLOT POSITION RELATIVE TO THE MAGNETIC NORTH POLE?",
+    "answer": "COMPASS",
+    "percentage": "52.60",
+    "response_time": "11.7"
+  },
+  {
+    "rank": "40",
+    "question": "WHAT IS THE TERM IN GOLF REFERRING TO A SCORE OF ONE UNDER PAR ON A PARTICULAR HOLE?",
+    "answer": "BIRDIE",
+    "percentage": "52.30",
+    "response_time": "12.2"
+  },
+  {
+    "rank": "41",
+    "question": "WHICH GAME USES A RUBBER BALL AND LITTLE METAL PIECES?",
+    "answer": "JACKS",
+    "percentage": "52.10",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "42",
+    "question": "WHAT IS THE NAME OF A DRIED PLUM?",
+    "answer": "PRUNE",
+    "percentage": "51.70",
+    "response_time": "7.7"
+  },
+  {
+    "rank": "43",
+    "question": "IN WHICH SPORT DOES A RIDER ON HORSEBACK HIT A BALL WITH HIS MALLET?",
+    "answer": "POLO",
+    "percentage": "51.00",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "44",
+    "question": "WHAT IS THE NAME OF THE LEGENDARY ONE-EYED GIANT IN GREEK MYTHOLOGY?",
+    "answer": "CYCLOPS",
+    "percentage": "50.70",
+    "response_time": "9.1"
+  },
+  {
+    "rank": "45",
+    "question": "IN WHAT PARK IS “OLD FAITHFUL” LOCATED?",
+    "answer": "YELLOWSTONE",
+    "percentage": "49.10",
+    "response_time": "9.7"
+  },
+  {
+    "rank": "46",
+    "question": "WHAT IS THE NAME OF THE POKER HAND IN WHICH ALL OF THE CARDS ARE OF THE SAME SUIT?",
+    "answer": "FLUSH",
+    "percentage": "48.60",
+    "response_time": "14.6"
+  },
+  {
+    "rank": "47",
+    "question": "IN WHICH SPORT IS THE STANLEY CUP AWARDED?",
+    "answer": "HOCKEY",
+    "percentage": "48.10",
+    "response_time": "5.8"
+  },
+  {
+    "rank": "48",
+    "question": "WHAT IS THE NAME OF THE CHAPEL WHOSE CEILING WAS PAINTED BY MICHELANGELO?",
+    "answer": "SISTINE",
+    "percentage": "47.50",
+    "response_time": "12.7"
+  },
+  {
+    "rank": "49",
+    "question": "OF WHICH COUNTRY IS BAGHDAD THE CAPITAL?",
+    "answer": "IRAQ",
+    "percentage": "46.80",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "50",
+    "question": "WHAT IS THE NAME OF THE LIQUID PORTION OF WHOLE BLOOD?",
+    "answer": "PLASMA",
+    "percentage": "46.80",
+    "response_time": "10.3"
+  },
+  {
+    "rank": "51",
+    "question": "WHAT IS THE NAME OF THE CITY IN ITALY THAT IS KNOWN FOR ITS CANALS?",
+    "answer": "VENICE",
+    "percentage": "45.90",
+    "response_time": "9.3"
+  },
+  {
+    "rank": "52",
+    "question": "WHAT IS THE NAME OF THE SPEAR LIKE OBJECT THAT IS THROWN DURING A TRACK MEET?",
+    "answer": "JAVELIN",
+    "percentage": "45.20",
+    "response_time": "10.5"
+  },
+  {
+    "rank": "53",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO RODE HORSEBACK IN 1775 TO WARN THAT THE BRITISH WERE COMING?",
+    "answer": "REVERE",
+    "percentage": "44.30",
+    "response_time": "13.3"
+  },
+  {
+    "rank": "54",
+    "question": "WHO WAS THE EGYPTIAN QUEEN WHO JOINED FORCES WITH MARK ANTONY OF ROME?",
+    "answer": "CLEOPATRA",
+    "percentage": "44.30",
+    "response_time": "11"
+  },
+  {
+    "rank": "55",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO ASSASSINATED ABRAHAM LINCOLN?",
+    "answer": "BOOTH",
+    "percentage": "43.80",
+    "response_time": "10.5"
+  },
+  {
+    "rank": "56",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO SHOWED THAT LIGHTNING IS ELECTRIC?",
+    "answer": "FRANKLIN",
+    "percentage": "43.70",
+    "response_time": "11.6"
+  },
+  {
+    "rank": "57",
+    "question": "WHAT IS THE LAST NAME OF THE FAMOUS MAGICIAN AND ESCAPE ARTIST WHO DIED OF APPENDICITIS?",
+    "answer": "HOUDINI",
+    "percentage": "43.60",
+    "response_time": "12.8"
+  },
+  {
+    "rank": "58",
+    "question": "WHAT IS THE NAME OF DEER MEAT?",
+    "answer": "VENISON",
+    "percentage": "43.20",
+    "response_time": "10.4"
+  },
+  {
+    "rank": "59",
+    "question": "WHAT IS THE NAME OF THE LARGE HAIRY SPIDER THAT LIVES NEAR BANANAS?",
+    "answer": "TARANTULA",
+    "percentage": "42.90",
+    "response_time": "13.8"
+  },
+  {
+    "rank": "60",
+    "question": "WHAT IS THE NAME OF THE OCEAN THAT IS LOCATED BETWEEN AFRICA AND AUSTRALIA?",
+    "answer": "INDIAN",
+    "percentage": "42.70",
+    "response_time": "12.9"
+  },
+  {
+    "rank": "61",
+    "question": "WHAT IS THE LAST NAME OF THE SINGER WHO RECORDED “HEARTBREAK HOTEL” AND “ALL SHOOK UP”?",
+    "answer": "PRESLEY",
+    "percentage": "42.40",
+    "response_time": "11.5"
+  },
+  {
+    "rank": "62",
+    "question": "WHAT IS THE NAME OF THE CRIME IN WHICH A PERSON PURPOSELY BETRAYS HIS COUNTRY?",
+    "answer": "TREASON",
+    "percentage": "41.80",
+    "response_time": "12"
+  },
+  {
+    "rank": "63",
+    "question": "WHAT IS THE NAME OF THE FIRST ARTIFICIAL SATELLITE PUT IN ORBIT BY RUSSIA IN 1957?",
+    "answer": "SPUTNIK",
+    "percentage": "41.70",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "64",
+    "question": "WHAT BRAND OF CIGARETTE WAS FIRST TO HAVE THE FLIP-TOP BOX?",
+    "answer": "MARLBORO",
+    "percentage": "39.90",
+    "response_time": "10.8"
+  },
+  {
+    "rank": "65",
+    "question": "WHAT KIND OF METAL IS ASSOCIATED WITH A 50TH WEDDING ANNIVERSARY?",
+    "answer": "GOLD",
+    "percentage": "39.60",
+    "response_time": "8.5"
+  },
+  {
+    "rank": "66",
+    "question": "WHICH TYPE OF SNAKE DO ASIAN SNAKE-CHARMERS USE?",
+    "answer": "COBRA",
+    "percentage": "39.10",
+    "response_time": "9.7"
+  },
+  {
+    "rank": "67",
+    "question": "WHAT IS THE ONLY LIQUID METAL AT ROOM TEMPERATURE?",
+    "answer": "MERCURY",
+    "percentage": "38.80",
+    "response_time": "9.5"
+  },
+  {
+    "rank": "68",
+    "question": "WHAT IS THE NAME OF THE DESERT PEOPLE WHO WANDER INSTEAD OF LIVING IN ONE PLACE?",
+    "answer": "NOMADS",
+    "percentage": "35.20",
+    "response_time": "12.1"
+  },
+  {
+    "rank": "69",
+    "question": "WHAT IS THE CAPITAL OF NEW YORK?",
+    "answer": "ALBANY",
+    "percentage": "33.10",
+    "response_time": "12.8"
+  },
+  {
+    "rank": "70",
+    "question": "WHAT IS THE NAME OF THE ORGAN THAT PRODUCES INSULIN?",
+    "answer": "PANCREAS",
+    "percentage": "32.70",
+    "response_time": "13.8"
+  },
+  {
+    "rank": "71",
+    "question": "WHAT IS THE NAME OF THE COLLAR BONE?",
+    "answer": "CLAVICLE",
+    "percentage": "32.40",
+    "response_time": "8.6"
+  },
+  {
+    "rank": "72",
+    "question": "WHAT IS THE NAME OF THE EXTINCT REPTILES KNOWN AS “TERRIBLE LIZARDS”?",
+    "answer": "DINOSAURS",
+    "percentage": "31.50",
+    "response_time": "11.2"
+  },
+  {
+    "rank": "73",
+    "question": "WHAT IS THE CAPITAL OF RUSSIA?",
+    "answer": "MOSCOW",
+    "percentage": "30.90",
+    "response_time": "7.6"
+  },
+  {
+    "rank": "74",
+    "question": "WHICH BREED OF CAT HAS BLUE EYES?",
+    "answer": "SIAMESE",
+    "percentage": "30.80",
+    "response_time": "9.4"
+  },
+  {
+    "rank": "75",
+    "question": "WHAT IS THE LAST NAME OF THE SECOND U.S. PRESIDENT?",
+    "answer": "ADAMS",
+    "percentage": "30.30",
+    "response_time": "10"
+  },
+  {
+    "rank": "76",
+    "question": "WHAT IS THE NAME OF THE CONSTELLATION THAT LOOKS LIKE A FLYING HORSE?",
+    "answer": "PEGASUS",
+    "percentage": "30.00",
+    "response_time": "9.6"
+  },
+  {
+    "rank": "77",
+    "question": "WHAT IS THE NAME OF THE KIND OF CAT THAT SPOKE TO ALICE IN THE STORY “ALICE’S ADVENTURES IN WONDERLAND”?",
+    "answer": "CHESHIRE",
+    "percentage": "30.00",
+    "response_time": "10.4"
+  },
+  {
+    "rank": "78",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO PROPOSED THE THEORY OF RELATIVITY?",
+    "answer": "EINSTEIN",
+    "percentage": "29.70",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "79",
+    "question": "WHAT WAS THE LAST NAME OF THE WOMAN WHO SUPPOSEDLY DESIGNED AND SEWED THE FIRST AMERICAN FLAG?",
+    "answer": "ROSS",
+    "percentage": "28.60",
+    "response_time": "8"
+  },
+  {
+    "rank": "80",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST SIGNER OF THE “DECLARATION OF INDEPENDENCE”?",
+    "answer": "HANCOCK",
+    "percentage": "28.50",
+    "response_time": "11.7"
+  },
+  {
+    "rank": "81",
+    "question": "WHAT WAS THE NAME OF KING ARTHUR’S SWORD?",
+    "answer": "EXCALIBUR",
+    "percentage": "28.50",
+    "response_time": "10"
+  },
+  {
+    "rank": "82",
+    "question": "WHAT IS THE WORD THAT MEANS A NAUTICAL MILE PER HOUR?",
+    "answer": "KNOT",
+    "percentage": "27.70",
+    "response_time": "11.8"
+  },
+  {
+    "rank": "83",
+    "question": "WHAT IS THE NAME FOR THE ASTRONOMICAL BODIES THAT ENTER THE EARTH’S ATMOSPHERE?",
+    "answer": "METEORS",
+    "percentage": "27.10",
+    "response_time": "14.8"
+  },
+  {
+    "rank": "84",
+    "question": "WHAT IS THE LONGEST RIVER IN SOUTH AMERICA?",
+    "answer": "AMAZON",
+    "percentage": "26.70",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "85",
+    "question": "WHAT IS THE NAME OF THE AUTOMOBILE INSTRUMENT THAT MEASURES MILEAGE?",
+    "answer": "ODOMETER",
+    "percentage": "25.80",
+    "response_time": "13.2"
+  },
+  {
+    "rank": "86",
+    "question": "WHAT ITALIAN CITY WAS DESTROYED WHEN MOUNT VESUVIUS ERUPTED IN 79 A.D.?",
+    "answer": "POMPEII",
+    "percentage": "25.80",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "87",
+    "question": "WHAT IS THE LAST NAME OF BATMAN’S SECRET IDENTITY IN THE BATMAN COMICS?",
+    "answer": "WAYNE",
+    "percentage": "25.20",
+    "response_time": "11"
+  },
+  {
+    "rank": "88",
+    "question": "WHAT IS THE LAST NAME OF THE MYTHICAL GIANT LUMBERJACK?",
+    "answer": "BUNYAN",
+    "percentage": "24.50",
+    "response_time": "14.1"
+  },
+  {
+    "rank": "89",
+    "question": "WHAT IS THE NAME OF THE COMPANY THAT PRODUCES “BABY RUTH” CANDY BARS?",
+    "answer": "NESTLE",
+    "percentage": "24.50",
+    "response_time": "10.7"
+  },
+  {
+    "rank": "90",
+    "question": "WHAT IS THE NAME OF SOCRATES’ MOST FAMOUS STUDENT?",
+    "answer": "PLATO",
+    "percentage": "23.90",
+    "response_time": "14.7"
+  },
+  {
+    "rank": "91",
+    "question": "WHAT IS THE NAME OF THE THREE-LEAF CLOVER THAT IS THE EMBLEM OF IRELAND?",
+    "answer": "SHAMROCK",
+    "percentage": "23.90",
+    "response_time": "10.9"
+  },
+  {
+    "rank": "92",
+    "question": "OF WHICH COUNTRY IS BUENOS AIRES THE CAPITAL?",
+    "answer": "ARGENTINA",
+    "percentage": "20.40",
+    "response_time": "10.1"
+  },
+  {
+    "rank": "93",
+    "question": "WHAT IS THE LAST NAME OF THE ACTRESS WHO RECEIVED THE BEST ACTRESS AWARD FOR THE MOVIE “MARY POPPINS”?",
+    "answer": "ANDREWS",
+    "percentage": "20.30",
+    "response_time": "11.5"
+  },
+  {
+    "rank": "94",
+    "question": "WHAT IS THE NAME OF THE MOUNTAIN RANGE IN WHICH MOUNT EVEREST IS LOCATED?",
+    "answer": "HIMALAYAS",
+    "percentage": "19.80",
+    "response_time": "13.8"
+  },
+  {
+    "rank": "95",
+    "question": "WHAT IS THE UNIT OF SOUND INTENSITY?",
+    "answer": "DECIBEL",
+    "percentage": "19.00",
+    "response_time": "8.8"
+  },
+  {
+    "rank": "96",
+    "question": "WHAT IS THE NAME OF THE PROJECT WHICH DEVELOPED THE ATOMIC BOMB DURING WORLD WAR II?",
+    "answer": "MANHATTAN",
+    "percentage": "18.80",
+    "response_time": "11.5"
+  },
+  {
+    "rank": "97",
+    "question": "WHAT IS THE UNIT OF ELECTRICAL POWER THAT REFERS TO A CURRENT OF ONE AMPERE AT ONE VOLT?",
+    "answer": "WATT",
+    "percentage": "18.70",
+    "response_time": "12.6"
+  },
+  {
+    "rank": "98",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR OF THE BOOK “1984”?",
+    "answer": "ORWELL",
+    "percentage": "18.50",
+    "response_time": "12.9"
+  },
+  {
+    "rank": "99",
+    "question": "IN WHICH GAME ARE MEN CROWNED?",
+    "answer": "CHECKERS",
+    "percentage": "17.60",
+    "response_time": "12.9"
+  },
+  {
+    "rank": "100",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO ASSASSINATED PRESIDENT JOHN F. KENNEDY?",
+    "answer": "OSWALD",
+    "percentage": "17.20",
+    "response_time": "14.8"
+  },
+  {
+    "rank": "101",
+    "question": "WHAT IS THE NAME OF BATMAN’S BUTLER?",
+    "answer": "ALFRED",
+    "percentage": "16.30",
+    "response_time": "11.4"
+  },
+  {
+    "rank": "102",
+    "question": "WHICH COUNTRY WAS THE FIRST TO USE GUNPOWDER?",
+    "answer": "CHINA",
+    "percentage": "16.00",
+    "response_time": "8.8"
+  },
+  {
+    "rank": "103",
+    "question": "WHAT IS THE NAME OF AN AIRPLANE WITHOUT AN ENGINE?",
+    "answer": "GLIDER",
+    "percentage": "15.70",
+    "response_time": "11.8"
+  },
+  {
+    "rank": "104",
+    "question": "WHAT IS THE NAME OF THE NORTH STAR?",
+    "answer": "POLARIS",
+    "percentage": "15.60",
+    "response_time": "6.5"
+  },
+  {
+    "rank": "105",
+    "question": "WHAT IS THE ONLY WORD THAT THE RAVEN SAYS IN EDGAR ALLEN POE’S POEM “THE RAVEN”?",
+    "answer": "NEVERMORE",
+    "percentage": "15.50",
+    "response_time": "11.2"
+  },
+  {
+    "rank": "106",
+    "question": "FOR WHICH COUNTRY IS THE YEN THE MONETARY UNIT?",
+    "answer": "JAPAN",
+    "percentage": "15.20",
+    "response_time": "7.1"
+  },
+  {
+    "rank": "107",
+    "question": "IN WHAT EUROPEAN CITY IS THE PARTHENON LOCATED?",
+    "answer": "ATHENS",
+    "percentage": "15.00",
+    "response_time": "8.4"
+  },
+  {
+    "rank": "108",
+    "question": "WHAT IS THE NAME OF THE FURRY ANIMAL THAT ATTACKS COBRA SNAKES?",
+    "answer": "MONGOOSE",
+    "percentage": "14.90",
+    "response_time": "8"
+  },
+  {
+    "rank": "109",
+    "question": "FOR WHICH COUNTRY IS THE RUPEE THE MONETARY UNIT?",
+    "answer": "INDIA",
+    "percentage": "14.70",
+    "response_time": "8.6"
+  },
+  {
+    "rank": "110",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO FIRST STUDIED GENETIC INHERITANCE IN PLANTS?",
+    "answer": "MENDEL",
+    "percentage": "14.40",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "111",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO WROTE THE “STAR SPANGLED BANNER”?",
+    "answer": "KEY",
+    "percentage": "14.10",
+    "response_time": "8.9"
+  },
+  {
+    "rank": "112",
+    "question": "WHAT IS THE NAME OF THE PALACE IN LONDON IN WHICH THE MONARCH OF ENGLAND RESIDES?",
+    "answer": "BUCKINGHAM",
+    "percentage": "14.10",
+    "response_time": "16"
+  },
+  {
+    "rank": "113",
+    "question": "IN WHICH GAME ARE THE STANDARD PIECES OF STAUNTON DESIGN?",
+    "answer": "CHESS",
+    "percentage": "13.80",
+    "response_time": "14.2"
+  },
+  {
+    "rank": "114",
+    "question": "WHAT ARE PEOPLE WHO MAKE MAPS CALLED?",
+    "answer": "CARTOGRAPHERS",
+    "percentage": "13.80",
+    "response_time": "9.3"
+  },
+  {
+    "rank": "115",
+    "question": "WHAT WAS THE NAME OF THE ZEPPELIN THAT EXPLODED IN LAKEHURST N.J. IN 1937?",
+    "answer": "HINDENBURG",
+    "percentage": "13.40",
+    "response_time": "20.2"
+  },
+  {
+    "rank": "116",
+    "question": "WHAT IS THE PALACE BUILT IN FRANCE BY KING LOUIS XIV?",
+    "answer": "VERSAILLES",
+    "percentage": "12.80",
+    "response_time": "10.1"
+  },
+  {
+    "rank": "117",
+    "question": "IN WHICH CITY IS THE U.S. NAVAL ACADEMY LOCATED?",
+    "answer": "ANNAPOLIS",
+    "percentage": "12.70",
+    "response_time": "11.3"
+  },
+  {
+    "rank": "118",
+    "question": "WHAT IS THE NAME OF THE LIGHTEST WOOD KNOWN?",
+    "answer": "BALSA",
+    "percentage": "12.50",
+    "response_time": "9"
+  },
+  {
+    "rank": "119",
+    "question": "WHAT IS THE LAST NAME OF THE BOXER WHO LATER BECAME KNOWN AS MUHAMMAD ALI?",
+    "answer": "CLAY",
+    "percentage": "11.70",
+    "response_time": "10.6"
+  },
+  {
+    "rank": "120",
+    "question": "WHAT ISLAND IS THE LARGEST IN THE WORLD EXCLUDING AUSTRALIA?",
+    "answer": "GREENLAND",
+    "percentage": "11.10",
+    "response_time": "15.4"
+  },
+  {
+    "rank": "121",
+    "question": "WHAT IS THE NAME OF THE SMALL JAPANESE STOVE USED FOR OUTDOOR COOKING?",
+    "answer": "HIBACHI",
+    "percentage": "11.00",
+    "response_time": "11.9"
+  },
+  {
+    "rank": "122",
+    "question": "WHAT IS THE LAST NAME OF THE WOMAN WHO BEGAN THE PROFESSION OF NURSING?",
+    "answer": "NIGHTINGALE",
+    "percentage": "10.80",
+    "response_time": "13.4"
+  },
+  {
+    "rank": "123",
+    "question": "WHO WAS THE LEADER OF THE ARGONAUTS?",
+    "answer": "JASON",
+    "percentage": "10.70",
+    "response_time": "5"
+  },
+  {
+    "rank": "124",
+    "question": "WHAT IS THE LAST NAME OF THE ARTIST WHO PAINTED “GUERNICA”?",
+    "answer": "PICASSO",
+    "percentage": "10.70",
+    "response_time": "11.5"
+  },
+  {
+    "rank": "125",
+    "question": "IN WHAT ANCIENT CITY WERE THE “HANGING GARDENS” LOCATED?",
+    "answer": "BABYLON",
+    "percentage": "10.30",
+    "response_time": "16.8"
+  },
+  {
+    "rank": "126",
+    "question": "WHAT ARE PEOPLE CALLED WHO EXPLORE CAVES?",
+    "answer": "SPELUNKERS",
+    "percentage": "10.00",
+    "response_time": "14.7"
+  },
+  {
+    "rank": "127",
+    "question": "WHAT IS THE NAME OF THE CAPTAIN OF THE PEQUOD IN THE BOOK “MOBY DICK”?",
+    "answer": "AHAB",
+    "percentage": "9.700",
+    "response_time": "11.7"
+  },
+  {
+    "rank": "128",
+    "question": "WHAT IS THE CAPITAL OF KENTUCKY?",
+    "answer": "FRANKFORT",
+    "percentage": "9.500",
+    "response_time": "18.6"
+  },
+  {
+    "rank": "129",
+    "question": "WHAT IS THE NAME OF AN ILLEGAL MOVE BY A BASEBALL PITCHER THAT RESULTS IN ALL RUNNERS ADVANCING ONE BASE?",
+    "answer": "BALK",
+    "percentage": "9.300",
+    "response_time": "10"
+  },
+  {
+    "rank": "130",
+    "question": "WHAT IS THE LAST NAME OF THE AMERICAN WHO STARRED IN THE 1936 OLYMPICS?",
+    "answer": "OWENS",
+    "percentage": "9.300",
+    "response_time": "12.1"
+  },
+  {
+    "rank": "131",
+    "question": "THE DEEPEST PART OF THE OCEAN IS LOCATED AT WHICH TRENCH?",
+    "answer": "MARIANA",
+    "percentage": "9.300",
+    "response_time": "11.2"
+  },
+  {
+    "rank": "132",
+    "question": "WHICH SPORT USES THE TERMS “STONES” AND “BROOMS”?",
+    "answer": "CURLING",
+    "percentage": "9.200",
+    "response_time": "19.3"
+  },
+  {
+    "rank": "133",
+    "question": "WHAT IS THE PROPER NAME FOR A BADMINTON BIRD?",
+    "answer": "SHUTTLECOCK",
+    "percentage": "9.100",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "134",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE “OLIVER TWIST”?",
+    "answer": "DICKENS",
+    "percentage": "9.000",
+    "response_time": "9.2"
+  },
+  {
+    "rank": "135",
+    "question": "WHAT IS THE CAPITAL OF DELAWARE?",
+    "answer": "DOVER",
+    "percentage": "9.000",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "136",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO INVENTED THE PHONOGRAPH?",
+    "answer": "EDISON",
+    "percentage": "8.600",
+    "response_time": "15.8"
+  },
+  {
+    "rank": "137",
+    "question": "IN WHICH TYPE OF SKI RACE DOES THE DOWNHILL SKIER MAKE SHARP TURNS AROUND POLES?",
+    "answer": "SLALOM",
+    "percentage": "8.600",
+    "response_time": "14.3"
+  },
+  {
+    "rank": "138",
+    "question": "IN WHICH CITY IS HEATHROW AIRPORT LOCATED?",
+    "answer": "LONDON",
+    "percentage": "8.300",
+    "response_time": "8.1"
+  },
+  {
+    "rank": "139",
+    "question": "WHAT IS THE CAPITAL OF JAMAICA?",
+    "answer": "KINGSTON",
+    "percentage": "8.100",
+    "response_time": "10.5"
+  },
+  {
+    "rank": "140",
+    "question": "WHICH PLANET WAS THE LAST TO BE DISCOVERED?",
+    "answer": "NEPTUNE",
+    "percentage": "8.000",
+    "response_time": "18.4"
+  },
+  {
+    "rank": "141",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE “THE MURDERS IN THE RUE MORGUE”?",
+    "answer": "POE",
+    "percentage": "8.000",
+    "response_time": "8.5"
+  },
+  {
+    "rank": "142",
+    "question": "WHAT IS THE NAME OF THE SHIP ON WHICH CHARLES DARWIN MADE HIS SCIENTIFIC VOYAGE?",
+    "answer": "BEAGLE",
+    "percentage": "7.900",
+    "response_time": "10.2"
+  },
+  {
+    "rank": "143",
+    "question": "WHAT IS THE CAPITAL OF CHILE?",
+    "answer": "SANTIAGO",
+    "percentage": "7.700",
+    "response_time": "15.3"
+  },
+  {
+    "rank": "144",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE “THE OLD MAN AND THE SEA”?",
+    "answer": "HEMINGWAY",
+    "percentage": "7.700",
+    "response_time": "8.9"
+  },
+  {
+    "rank": "145",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO WROTE “CANTERBURY TALES”?",
+    "answer": "CHAUCER",
+    "percentage": "7.600",
+    "response_time": "10.1"
+  },
+  {
+    "rank": "146",
+    "question": "WHAT IS THE NAME OF THE FOUNTAIN IN ROME INTO WHICH COINS ARE THROWN FOR GOOD LUCK?",
+    "answer": "TREVI",
+    "percentage": "7.100",
+    "response_time": "24.7"
+  },
+  {
+    "rank": "147",
+    "question": "WHAT WAS THE LAST NAME OF THE MAN WHO WAS PRESIDENT DIRECTLY AFTER JAMES MADISON?",
+    "answer": "MONROE",
+    "percentage": "6.800",
+    "response_time": "11.7"
+  },
+  {
+    "rank": "148",
+    "question": "WHAT IS THE LAST NAME OF THE ASTRONOMER WHO PUBLISHED IN 1543 HIS THEORY THAT THE EARTH REVOLVES AROUND THE SUN?",
+    "answer": "COPERNICUS",
+    "percentage": "6.700",
+    "response_time": "15"
+  },
+  {
+    "rank": "149",
+    "question": "WHAT IS THE LAST NAME OF THE CRIMINAL WHO WAS KNOWN AS “SCARFACE”?",
+    "answer": "CAPONE",
+    "percentage": "6.600",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "150",
+    "question": "WHAT IS THE NAME OF THE LONE RANGER’S INDIAN SIDEKICK?",
+    "answer": "TONTO",
+    "percentage": "6.100",
+    "response_time": "7.5"
+  },
+  {
+    "rank": "151",
+    "question": "WHAT IS THE CAPITAL OF DENMARK?",
+    "answer": "COPENHAGEN",
+    "percentage": "6.000",
+    "response_time": "23.4"
+  },
+  {
+    "rank": "152",
+    "question": "WHAT WAS THE LAST NAME OF THE MAN WHO WAS THE RADIO BROADCASTER FOR THE “WAR OF THE WORLDS”?",
+    "answer": "WELLES",
+    "percentage": "5.900",
+    "response_time": "9.5"
+  },
+  {
+    "rank": "153",
+    "question": "IN WHICH CITY IS MICHELANGELO’S STATUE OF DAVID LOCATED?",
+    "answer": "FLORENCE",
+    "percentage": "5.800",
+    "response_time": "14.5"
+  },
+  {
+    "rank": "154",
+    "question": "WHAT WAS FRANK LLOYD WRIGHT’S PROFESSION?",
+    "answer": "ARCHITECT",
+    "percentage": "5.800",
+    "response_time": "7.8"
+  },
+  {
+    "rank": "155",
+    "question": "OF WHICH COUNTRY IS NAIROBI THE CAPITAL?",
+    "answer": "KENYA",
+    "percentage": "5.300",
+    "response_time": "6.6"
+  },
+  {
+    "rank": "156",
+    "question": "WHAT IS THE NAME OF THE HILLBILLY FAMILY THAT HAD A FAMOUS FEUD WITH THE MCCOY FAMILY?",
+    "answer": "HATFIELD",
+    "percentage": "5.200",
+    "response_time": "12.7"
+  },
+  {
+    "rank": "157",
+    "question": "WHAT KIND OF POISON DID SOCRATES TAKE AS HIS EXECUTION?",
+    "answer": "HEMLOCK",
+    "percentage": "5.200",
+    "response_time": "7.5"
+  },
+  {
+    "rank": "158",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST PERSON TO COMPLETE A SOLO FLIGHT ACROSS THE ATLANTIC OCEAN?",
+    "answer": "LINDBERGH",
+    "percentage": "5.200",
+    "response_time": "15.6"
+  },
+  {
+    "rank": "159",
+    "question": "ANDY GRIFFITH WAS THE SHERIFF OF WHAT TOWN ON TELEVISION’S “ANDY GRIFFITH SHOW”?",
+    "answer": "MAYBERRY",
+    "percentage": "5.200",
+    "response_time": "9.7"
+  },
+  {
+    "rank": "160",
+    "question": "WHAT IS THE NAME OF THE ROMAN EMPEROR WHO FIDDLED WHILE ROME BURNED?",
+    "answer": "NERO",
+    "percentage": "5.200",
+    "response_time": "10.6"
+  },
+  {
+    "rank": "161",
+    "question": "WHAT IS THE CITY IN WHICH THE BASEBALL HALL OF FAME IS LOCATED?",
+    "answer": "COOPERSTOWN",
+    "percentage": "5.100",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "162",
+    "question": "WHAT IS THE NAME OF THE UNIT OF MEASURE THAT REFERS TO A SIX-FOOT DEPTH OF WATER?",
+    "answer": "FATHOM",
+    "percentage": "5.100",
+    "response_time": "19.2"
+  },
+  {
+    "rank": "163",
+    "question": "WHAT IS THE LAST NAME OF THE SCIENTIST WHO DISCOVERED RADIUM?",
+    "answer": "CURIE",
+    "percentage": "4.600",
+    "response_time": "8.9"
+  },
+  {
+    "rank": "164",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE “BRAVE NEW WORLD”?",
+    "answer": "HUXLEY",
+    "percentage": "4.500",
+    "response_time": "10.9"
+  },
+  {
+    "rank": "165",
+    "question": "IN ADDITION TO THE KENTUCKY DERBY AND THE BELMONT STAKES WHAT HORSE RACE COMPRISES THE TRIPLE CROWN?",
+    "answer": "PREAKNESS",
+    "percentage": "4.400",
+    "response_time": "21"
+  },
+  {
+    "rank": "166",
+    "question": "WHAT IS THE LAST NAME OF THE CRIMINAL WHO WAS KILLED BY FBI AGENTS OUTSIDE OF A CHICAGO MOVIE THEATER?",
+    "answer": "DILLINGER",
+    "percentage": "4.400",
+    "response_time": "17.4"
+  },
+  {
+    "rank": "167",
+    "question": "WHAT IS THE NAME OF THE SINGER WHO POPULARIZED A DANCE KNOWN AS THE “TWIST”?",
+    "answer": "CHECKER",
+    "percentage": "4.100",
+    "response_time": "21.4"
+  },
+  {
+    "rank": "168",
+    "question": "OVER WHICH RIVER IS THE GEORGE WASHINGTON BRIDGE?",
+    "answer": "HUDSON",
+    "percentage": "4.100",
+    "response_time": "32.2"
+  },
+  {
+    "rank": "169",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO INVENTED DYNAMITE?",
+    "answer": "NOBEL",
+    "percentage": "4.000",
+    "response_time": "7.4"
+  },
+  {
+    "rank": "170",
+    "question": "WHAT IS THE NAME OF THE CHINESE RELIGION FOUNDED BY LAO TSE?",
+    "answer": "TAOISM",
+    "percentage": "4.000",
+    "response_time": "13"
+  },
+  {
+    "rank": "171",
+    "question": "WHAT IS THE LAST NAME OF THE COMMANDER WHO LOST THE BATTLE OF THE LITTLE BIGHORN RIVER?",
+    "answer": "CUSTER",
+    "percentage": "3.800",
+    "response_time": "11"
+  },
+  {
+    "rank": "172",
+    "question": "WHAT IS THE NAME OF THE NAVIGATION INSTRUMENT USED AT SEA TO PLOT POSITION BY THE STARS?",
+    "answer": "SEXTANT",
+    "percentage": "3.800",
+    "response_time": "14.9"
+  },
+  {
+    "rank": "173",
+    "question": "WHO WAS THE MOST FAMOUS GREEK DOCTOR?",
+    "answer": "HIPPOCRATES",
+    "percentage": "3.700",
+    "response_time": "16.2"
+  },
+  {
+    "rank": "174",
+    "question": "IN WHICH CITY DOES THE COTTON BOWL TAKE PLACE?",
+    "answer": "DALLAS",
+    "percentage": "3.700",
+    "response_time": "10.7"
+  },
+  {
+    "rank": "175",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE THE SHERLOCK HOLMES STORIES?",
+    "answer": "DOYLE",
+    "percentage": "3.600",
+    "response_time": "17"
+  },
+  {
+    "rank": "176",
+    "question": "FOR WHICH COUNTRY IS THE DRACHMA THE MONETARY UNIT?",
+    "answer": "GREECE",
+    "percentage": "3.600",
+    "response_time": "19.6"
+  },
+  {
+    "rank": "177",
+    "question": "WHAT IS THE NAME OF THE MANSION IN VIRGINIA THAT WAS THOMAS JEFFERSON’S HOME?",
+    "answer": "MONTICELLO",
+    "percentage": "3.500",
+    "response_time": "11.9"
+  },
+  {
+    "rank": "178",
+    "question": "WHAT IS THE LONGEST RIVER IN ASIA?",
+    "answer": "YANGTZE",
+    "percentage": "3.500",
+    "response_time": "17.3"
+  },
+  {
+    "rank": "179",
+    "question": "WHAT IS THE LAST NAME OF THE ACTOR WHO RECEIVED THE BEST ACTOR AWARD FOR THE MOVIE “ON THE WATERFRONT”?",
+    "answer": "BRANDO",
+    "percentage": "3.400",
+    "response_time": "11.3"
+  },
+  {
+    "rank": "180",
+    "question": "WHAT IS THE LAST NAME OF THE MALE STAR OF THE MOVIE “CASABLANCA”?",
+    "answer": "BOGART",
+    "percentage": "3.400",
+    "response_time": "9.6"
+  },
+  {
+    "rank": "181",
+    "question": "OF WHICH COUNTRY IS BUDAPEST THE CAPITAL?",
+    "answer": "HUNGARY",
+    "percentage": "3.300",
+    "response_time": "9.9"
+  },
+  {
+    "rank": "182",
+    "question": "WHO IS KNOWN AS “THE FATHER OF GEOMETRY”?",
+    "answer": "EUCLID",
+    "percentage": "3.300",
+    "response_time": "20.7"
+  },
+  {
+    "rank": "183",
+    "question": "WHAT IS THE LAST NAME OF THE HUSBAND-WIFE SPIES WHO WERE ELECTROCUTED IN 1951 FOR PASSING ATOMIC SECRETS TO RUSSIA?",
+    "answer": "ROSENBERG",
+    "percentage": "3.100",
+    "response_time": "29"
+  },
+  {
+    "rank": "184",
+    "question": "WHAT IS THE LAST NAME OF THE COMPOSER WHO WROTE THE OPERA “DON GIOVANNI”?",
+    "answer": "MOZART",
+    "percentage": "3.000",
+    "response_time": "10.1"
+  },
+  {
+    "rank": "185",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR OF THE JAMES BOND NOVELS?",
+    "answer": "FLEMING",
+    "percentage": "3.000",
+    "response_time": "11.4"
+  },
+  {
+    "rank": "186",
+    "question": "WHAT WAS THE LAST NAME OF BUFFALO BILL?",
+    "answer": "CODY",
+    "percentage": "3.000",
+    "response_time": "14.2"
+  },
+  {
+    "rank": "187",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE UNDER THE PSEUDONYM OF MARK TWAIN?",
+    "answer": "CLEMENS",
+    "percentage": "2.900",
+    "response_time": "15.2"
+  },
+  {
+    "rank": "188",
+    "question": "WHAT IS THE NAME OF THE ISLAND ON WHICH NAPOLEON WAS BORN?",
+    "answer": "CORSICA",
+    "percentage": "2.900",
+    "response_time": "38.3"
+  },
+  {
+    "rank": "189",
+    "question": "WHAT IS THE LAST NAME OF THE DOCTOR WHO FIRST DEVELOPED A VACCINE AGAINST POLIO?",
+    "answer": "SALK",
+    "percentage": "2.800",
+    "response_time": "16.1"
+  },
+  {
+    "rank": "190",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO BEGAN THE REFORMATION IN GERMANY?",
+    "answer": "LUTHER",
+    "percentage": "2.800",
+    "response_time": "18.7"
+  },
+  {
+    "rank": "191",
+    "question": "WHAT IS THE CAPITAL OF FINLAND?",
+    "answer": "HELSINKI",
+    "percentage": "2.600",
+    "response_time": "14"
+  },
+  {
+    "rank": "192",
+    "question": "WHAT WAS THE NAME OF THE APOLLO LUNAR MODULE THAT LANDED THE FIRST MAN ON THE MOON?",
+    "answer": "EAGLE",
+    "percentage": "2.500",
+    "response_time": "30.9"
+  },
+  {
+    "rank": "193",
+    "question": "WHAT IS THE LAST NAME OF THE COSMONAUT WHO WAS THE FIRST PERSON TO ORBIT AROUND THE EARTH?",
+    "answer": "GAGARIN",
+    "percentage": "2.400",
+    "response_time": "10.9"
+  },
+  {
+    "rank": "194",
+    "question": "WHAT WAS THE NAME OF ROY ROGER’S DOG?",
+    "answer": "BULLET",
+    "percentage": "2.100",
+    "response_time": "8.6"
+  },
+  {
+    "rank": "195",
+    "question": "WHAT WAS THE NAME OF ALEXANDER GRAHAM BELL’S ASSISTANT?",
+    "answer": "WATSON",
+    "percentage": "2.100",
+    "response_time": "12.5"
+  },
+  {
+    "rank": "196",
+    "question": "WHAT WAS THE LAST NAME OF THE COMPOSER OF THE “MAPLE LEAF RAG”?",
+    "answer": "JOPLIN",
+    "percentage": "2.000",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "197",
+    "question": "WHAT IS THE LAST NAME OF THE PLAYWRIGHT WHO WROTE “A STREETCAR NAMED DESIRE”?",
+    "answer": "WILLIAMS",
+    "percentage": "2.000",
+    "response_time": "26.9"
+  },
+  {
+    "rank": "198",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR OF “LITTLE WOMEN”?",
+    "answer": "ALCOTT",
+    "percentage": "2.000",
+    "response_time": "6.4"
+  },
+  {
+    "rank": "199",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST PERSON TO CLIMB MOUNT EVEREST?",
+    "answer": "HILLARY",
+    "percentage": "2.000",
+    "response_time": "8.4"
+  },
+  {
+    "rank": "200",
+    "question": "WHAT IS THE LAST NAME OF THE ACTOR WHO PLAYED RHETT BUTLER IN “GONE WITH THE WIND”?",
+    "answer": "GABLE",
+    "percentage": "2.000",
+    "response_time": "22.7"
+  },
+  {
+    "rank": "201",
+    "question": "IN WHICH COUNTRY IS ANGEL FALLS LOCATED?",
+    "answer": "VENEZUELA",
+    "percentage": "2.000",
+    "response_time": "17.2"
+  },
+  {
+    "rank": "202",
+    "question": "WHAT IS THE CAPITAL OF CANADA?",
+    "answer": "OTTAWA",
+    "percentage": "1.900",
+    "response_time": "18.1"
+  },
+  {
+    "rank": "203",
+    "question": "WHAT IS THE LAST NAME OF THE TWENTY-FIRST U.S. PRESIDENT?",
+    "answer": "ARTHUR",
+    "percentage": "1.900",
+    "response_time": "26.4"
+  },
+  {
+    "rank": "204",
+    "question": "WHAT WAS THE NAME OF THE GOLDFISH IN THE STORY OF PINOCCHIO?",
+    "answer": "CLEO",
+    "percentage": "1.900",
+    "response_time": "16"
+  },
+  {
+    "rank": "205",
+    "question": "WHAT IS THE NAME OF THE VILLAINOUS PEOPLE WHO LIVED UNDERGROUND IN H. G. WELLS’S BOOK “THE TIME MACHINE”?",
+    "answer": "MORLOCKS",
+    "percentage": "1.800",
+    "response_time": "19.5"
+  },
+  {
+    "rank": "206",
+    "question": "WHAT WAS THE LAST NAME OF THE CHARACTER PORTRAYED BY ROBERT STACK ON THE TELEVISION SHOW “THE UNTOUCHABLES”?",
+    "answer": "NESS",
+    "percentage": "1.500",
+    "response_time": "11.4"
+  },
+  {
+    "rank": "207",
+    "question": "WHAT IS THE CAPITAL OF AUSTRALIA?",
+    "answer": "CANBERRA",
+    "percentage": "1.500",
+    "response_time": "15.5"
+  },
+  {
+    "rank": "208",
+    "question": "WHAT IS THE LAST NAME OF THE ARTIST WHO PAINTED “THE PERSISTENCE OF MEMORY”?",
+    "answer": "DALI",
+    "percentage": "1.500",
+    "response_time": "16"
+  },
+  {
+    "rank": "209",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO INVENTED THE TELEGRAPH?",
+    "answer": "MORSE",
+    "percentage": "1.400",
+    "response_time": "9.1"
+  },
+  {
+    "rank": "210",
+    "question": "WHAT IS THE NAME OF THE RIVER ON WHICH BONN IS LOCATED?",
+    "answer": "RHINE",
+    "percentage": "1.400",
+    "response_time": "17.5"
+  },
+  {
+    "rank": "211",
+    "question": "WHAT IS THE NAME OF THE SUBSTANCE DERIVED FROM A WHALE THAT IS USED TO MAKE PERFUME?",
+    "answer": "AMBERGRIS",
+    "percentage": "1.400",
+    "response_time": "41.6"
+  },
+  {
+    "rank": "212",
+    "question": "",
+    "answer": "",
+    "percentage": "NaN",
+    "response_time": "143"
+  },
+  {
+    "rank": "213",
+    "question": "WHAT WAS THE NAME OF THE CLOWN ON THE “HOWDY DOODY” TELEVISION SHOW?",
+    "answer": "CLARABELL",
+    "percentage": "1.400",
+    "response_time": "24.2"
+  },
+  {
+    "rank": "214",
+    "question": "WHAT IS THE LAST NAME OF DAGWOOD’S BOSS IN THE COMIC STRIP “BLONDIE”?",
+    "answer": "DITHERS",
+    "percentage": "1.000",
+    "response_time": "9.3"
+  },
+  {
+    "rank": "215",
+    "question": "WHAT IS THE LAST NAME OF THE MOVIE ACTOR WHO PORTRAYED SPARTACUS?",
+    "answer": "DOUGLAS",
+    "percentage": "1.000",
+    "response_time": "7.6"
+  },
+  {
+    "rank": "216",
+    "question": "WHAT IS THE LAST NAME OF THE WOMAN WHO FOUNDED THE AMERICAN RED CROSS?",
+    "answer": "BARTON",
+    "percentage": "1.000",
+    "response_time": "14.1"
+  },
+  {
+    "rank": "217",
+    "question": "WHAT IS THE LAST NAME OF THE UNION GENERAL WHO DEFEATED THE CONFEDERATE ARMY AT THE CIVIL WAR BATTLE OF GETTYSBURG?",
+    "answer": "MEADE",
+    "percentage": "1.000",
+    "response_time": "16.6"
+  },
+  {
+    "rank": "218",
+    "question": "WHAT IS THE NAME OF THE AVENUE THAT IMMEDIATELY FOLLOWS ATLANTIC AVENUE IN THE GAME OF MONOPOLY?",
+    "answer": "VENTNOR",
+    "percentage": "1.000",
+    "response_time": "31.8"
+  },
+  {
+    "rank": "219",
+    "question": "WHICH GAME USES A DOUBLING CUBE?",
+    "answer": "BACKGAMMON",
+    "percentage": "1.000",
+    "response_time": "26.7"
+  },
+  {
+    "rank": "220",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO SUPPOSEDLY KILLED JESSE JAMES?",
+    "answer": "FORD",
+    "percentage": "0.9000",
+    "response_time": "9.4"
+  },
+  {
+    "rank": "221",
+    "question": "WHAT IS THE LAST NAME OF THE EUROPEAN AUTHOR WHO WROTE “THE TRIAL”?",
+    "answer": "KAFKA",
+    "percentage": "0.8000",
+    "response_time": "70.8"
+  },
+  {
+    "rank": "222",
+    "question": "THE GENERAL NAMED HANNIBAL WAS FROM WHAT CITY?",
+    "answer": "CARTHAGE",
+    "percentage": "0.7000",
+    "response_time": "11.5"
+  },
+  {
+    "rank": "223",
+    "question": "WHAT IS THE LAST NAME OF THE BRITISH ADMIRAL WHO WON THE BATTLE OF TRAFALGAR?",
+    "answer": "NELSON",
+    "percentage": "0.7000",
+    "response_time": "6.9"
+  },
+  {
+    "rank": "224",
+    "question": "WHAT IS THE NAME OF THE INDIAN COLLEGE IN PENNSYLVANIA FOR WHICH JIM THORPE PLAYED FOOTBALL?",
+    "answer": "CARLISLE",
+    "percentage": "0.7000",
+    "response_time": "66.7"
+  },
+  {
+    "rank": "225",
+    "question": "WHAT IS THE NAME OF THE PLAY IN WHICH ELWOOD P. DOWD IS A CHARACTER?",
+    "answer": "HARVEY",
+    "percentage": "0.7000",
+    "response_time": "6.8"
+  },
+  {
+    "rank": "226",
+    "question": "WHAT FAMOUS KNOT DID ALEXANDER THE GREAT UNDO?",
+    "answer": "GORDIAN",
+    "percentage": "0.7000",
+    "response_time": "4.5"
+  },
+  {
+    "rank": "227",
+    "question": "WHAT WAS THE NAME OF THE UNSUCCESSFUL AUTO THAT WAS MANUFACTURED BY THE FORD MOTOR COMPANY FROM 1957–1959?",
+    "answer": "EDSEL",
+    "percentage": "0.7000",
+    "response_time": "5.2"
+  },
+  {
+    "rank": "228",
+    "question": "WHAT IS THE LAST NAME OF THE SONG WRITER WHO WROTE THE SONG “I LOVE PARIS”?",
+    "answer": "PORTER",
+    "percentage": "0.7000",
+    "response_time": "35.9"
+  },
+  {
+    "rank": "229",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST AMERICAN AUTHOR TO WIN THE NOBEL PRIZE FOR LITERATURE?",
+    "answer": "LEWIS",
+    "percentage": "0.7000",
+    "response_time": "26.3"
+  },
+  {
+    "rank": "230",
+    "question": "WHAT IS THE LAST NAME OF THE INVENTOR OF THE WIRELESS RADIO?",
+    "answer": "MARCONI",
+    "percentage": "0.7000",
+    "response_time": "5.8"
+  },
+  {
+    "rank": "231",
+    "question": "WHAT IS THE LAST NAME OF THE ARTIST WHO PAINTED “AMERICAN GOTHIC”?",
+    "answer": "WOOD",
+    "percentage": "0.7000",
+    "response_time": "18.8"
+  },
+  {
+    "rank": "232",
+    "question": "IN WHAT PROFESSION WAS EMMETT KELLY?",
+    "answer": "CLOWN",
+    "percentage": "0.6000",
+    "response_time": "3.9"
+  },
+  {
+    "rank": "233",
+    "question": "WHAT IS THE NAME OF THE RIVER THAT RUNS THROUGH ROME?",
+    "answer": "TIBER",
+    "percentage": "0.6000",
+    "response_time": "3.5"
+  },
+  {
+    "rank": "234",
+    "question": "WHAT IS THE LAST NAME OF THE POET WHO ORIGINALLY WROTE “DON JUAN”?",
+    "answer": "BYRON",
+    "percentage": "0.6000",
+    "response_time": "15.3"
+  },
+  {
+    "rank": "235",
+    "question": "WHAT IS THE LAST NAME OF THE FRENCH AUTHOR WHO WROTE “THE STRANGER”?",
+    "answer": "CAMUS",
+    "percentage": "0.5000",
+    "response_time": "7.4"
+  },
+  {
+    "rank": "236",
+    "question": "WHO WAS THE FIRST RULER OF THE HOLY ROMAN EMPIRE?",
+    "answer": "CHARLEMAGNE",
+    "percentage": "0.5000",
+    "response_time": "15"
+  },
+  {
+    "rank": "237",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO IS REGARDED AS THE NATIONAL POET OF SCOTLAND?",
+    "answer": "BURNS",
+    "percentage": "0.5000",
+    "response_time": "6"
+  },
+  {
+    "rank": "238",
+    "question": "WHAT IS THE LAST NAME OF THE FOOTBALL PLAYER KNOWN AS “THE GALLOPING GHOST”?",
+    "answer": "GRANGE",
+    "percentage": "0.5000",
+    "response_time": "6.6"
+  },
+  {
+    "rank": "239",
+    "question": "WHAT IS THE NAME OF ROY ROGERS’ HORSE?",
+    "answer": "TRIGGER",
+    "percentage": "0.5000",
+    "response_time": "3.9"
+  },
+  {
+    "rank": "240",
+    "question": "WHAT WAS THE NAME OF THE NUCLEAR SUBMARINE THAT SUNK IN THE ATLANTIC IN 1963?",
+    "answer": "THRESHER",
+    "percentage": "0.5000",
+    "response_time": "42.6"
+  },
+  {
+    "rank": "241",
+    "question": "WHAT IS THE NAME OF THE MAN WHO REMOVED THE THORN FROM THE LION’S PAW IN THE STORY FROM AESOP’S FABLES?",
+    "answer": "ANDROCLES",
+    "percentage": "0.5000",
+    "response_time": "23.8"
+  },
+  {
+    "rank": "242",
+    "question": "WHAT IS THE NAME OF THE BRIGHTEST STAR IN THE SKY EXCLUDING THE SUN?",
+    "answer": "SIRIUS",
+    "percentage": "0.5000",
+    "response_time": "9.8"
+  },
+  {
+    "rank": "243",
+    "question": "WHAT IS THE NAME OF THE LAND OF THE GIANTS IN “GULLIVER’S TRAVELS”?",
+    "answer": "BROBDINGNAG",
+    "percentage": "0.5000",
+    "response_time": "21.9"
+  },
+  {
+    "rank": "244",
+    "question": "WHAT WAS THE LAST NAME OF THE FEMALE STAR OF THE MOVIE “CASABLANCA”?",
+    "answer": "BERGMAN",
+    "percentage": "0.5000",
+    "response_time": "7.4"
+  },
+  {
+    "rank": "245",
+    "question": "WHAT IS THE LAST NAME OF THE ACTOR KNOWN AS “THE MAN OF A THOUSAND FACES”?",
+    "answer": "CHANEY",
+    "percentage": "0.5000",
+    "response_time": "8.3"
+  },
+  {
+    "rank": "246",
+    "question": "WHAT IS THE NAME OF THE BASEBALL PLAYER WITH THE HIGHEST LIFETIME BATTING AVERAGE IN THE MAJOR LEAGUES?",
+    "answer": "COBB",
+    "percentage": "0.5000",
+    "response_time": "7.8"
+  },
+  {
+    "rank": "247",
+    "question": "WHAT WAS THE LAST NAME OF THE ACTOR IN THE ROLE OF PERRY MASON ON TELEVISION?",
+    "answer": "BURR",
+    "percentage": "0.5000",
+    "response_time": "12"
+  },
+  {
+    "rank": "248",
+    "question": "WHAT IS THE LAST NAME OF THE MOST POPULAR PIN-UP GIRL OF WORLD WAR II?",
+    "answer": "GRABLE",
+    "percentage": "0.4000",
+    "response_time": "15.5"
+  },
+  {
+    "rank": "249",
+    "question": "WHAT IS THE NAME OF THE LARGEST DESERT ON EARTH?",
+    "answer": "ANTARTICA",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "250",
+    "question": "WHAT IS THE LAST NAME OF THE JOCKEY WITH THE MOST LIFETIME WINNERS IN HORSE RACING?",
+    "answer": "BAZE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "251",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO WAS THE VOICE OF MR. MAGOO?",
+    "answer": "BACKUS",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "252",
+    "question": "WHAT IS THE LAST NAME OF THE ACTOR WHO PORTRAYED SERGEANT FRIDAY ON “DRAGNET”?",
+    "answer": "WEBB",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "253",
+    "question": "WHAT WAS THE LAST NAME OF THE ACTOR WHO PORTRAYED THE FATHER ON THE TELEVISION SHOW “FATHER KNOWS BEST”?",
+    "answer": "YOUNG",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "254",
+    "question": "WHAT WAS THE LAST NAME OF THE VENTRILOQUIST WHO PROVIDED THE VOICE FOR CHARLIE MCCARTHY?",
+    "answer": "BERGEN",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "255",
+    "question": "WHAT WAS THE LAST NAME OF THE CAPTAIN OF THE BRITISH SHIP “BOUNTY” WHEN THE MUTINY OCCURRED?",
+    "answer": "BLIGH",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "256",
+    "question": "WHAT IS THE LAST NAME OF THE INVENTOR OF THE STEAMBOAT “CLERMONT”?",
+    "answer": "FULTON",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "257",
+    "question": "WHAT IS THE NAME OF GERMANY’S LARGEST BATTLESHIP THAT WAS SUNK IN WORLD WAR II?",
+    "answer": "BISMARCK",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "258",
+    "question": "WHAT IS THE LAST NAME OF THE JUDGE WHO WAS KNOWN AS “THE LAW WEST OF THE PECOS”?",
+    "answer": "BEAN",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "259",
+    "question": "WHAT IS JOHN KENNETH GALBRAITH’S PROFESSION?",
+    "answer": "ECONOMIST",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "260",
+    "question": "WHAT WAS THE NAME OF THE UNION IRONCLAD SHIP THAT FOUGHT THE CONFEDERATE IRONCLAD MERRIMACK?",
+    "answer": "MONITOR",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "261",
+    "question": "WHAT IS THE LAST NAME OF THE DOCTOR WHO PERFORMED THE FIRST SUCCESSFUL HUMAN HEART TRANSPLANT?",
+    "answer": "BARNARD",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "262",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO SAID “I ONLY REGRET THAT I HAVE BUT ONE LIFE TO LOSE FOR MY COUNTRY”?",
+    "answer": "HALE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "263",
+    "question": "WHAT IS THE LAST NAME OF THE PILOT OF THE U-2 SPY PLANE SHOT DOWN OVER RUSSIA IN 1960?",
+    "answer": "POWERS",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "264",
+    "question": "WHAT IS THE LAST NAME OF THE ACTOR WHO PORTRAYED THE SHERIFF IN THE MOVIE “HIGH NOON”?",
+    "answer": "COOPER",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "265",
+    "question": "WHAT IS THE NAME OF THE MOUNTAIN RANGE THAT SEPARATES ASIA FROM EUROPE?",
+    "answer": "URAL",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "266",
+    "question": "WHAT IS THE LAST NAME OF THE BOXER WHO WAS KNOWN AS THE “MANASSA MAULER”?",
+    "answer": "DEMPSEY",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "267",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO CREATED THE COMIC STRIP “LI’L ABNER”?",
+    "answer": "CAPP",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "268",
+    "question": "WHAT IS THE LAST NAME OF THE BASEBALL PLAYER WHO PITCHED A PERFECT GAME IN THE 1956 WORLD SERIES?",
+    "answer": "LARSEN",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "269",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST MAN TO RUN THE MILE IN UNDER FOUR MINUTES?",
+    "answer": "BANNISTER",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "270",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR WHO WROTE “BROTHERS KARAMAZOV”?",
+    "answer": "DOSTOYEVSKI",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "271",
+    "question": "WHAT IS THE NAME OF THE AUTHOR WHO RECEIVED A PULITZER PRIZE FOR HIS WRITINGS ABOUT ABRAHAM LINCOLN?",
+    "answer": "SANDBURG",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "272",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO CREATED THE COMIC STRIP “WOODY WOODPECKER”?",
+    "answer": "LANTZ",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "273",
+    "question": "WHAT IS THE NAME OF THE INSTRUMENT USED TO MEASURE WIND SPEED?",
+    "answer": "ANEMOMETER",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "274",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR OF “OUR TOWN”?",
+    "answer": "WILDER",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "275",
+    "question": "WHAT IS THE LAST NAME OF THE SINGER WHO MADE A HIT RECORDING OF THE SONG “WHO’S SORRY NOW”?",
+    "answer": "FRANCIS",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "276",
+    "question": "WHAT IS THE LAST NAME OF THE CUBAN LEADER THAT CASTRO OVERTHREW?",
+    "answer": "BATISTA",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "277",
+    "question": "WHAT IS THE NAME OF THE RUBBER ROLLER ON A TYPEWRITER?",
+    "answer": "PLATEN",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "278",
+    "question": "WHAT WAS THE NAME OF THE LARGEST CONFEDERATE MILITARY PRISON DURING THE CIVIL WAR?",
+    "answer": "ANDERSONVILLE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "279",
+    "question": "WHAT IS THE LAST NAME OF THE AUTHOR OF “THE AGONY AND THE ECSTASY”?",
+    "answer": "STONE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "280",
+    "question": "WHAT IS THE LAST NAME OF FLASH’S GIRLFRIEND IN THE COMIC STRIP “FLASH GORDON”?",
+    "answer": "ARDEN",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "281",
+    "question": "WHAT IS THE NAME OF THE FIRST MOVIE TO RECEIVE THE ACADEMY AWARD FOR BEST PICTURE?",
+    "answer": "WINGS",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "282",
+    "question": "WHAT IS THE LAST NAME OF THE DISCOVERER OF THE VACCINATION FOR SMALLPOX?",
+    "answer": "JENNER",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "283",
+    "question": "WHAT IS THE LAST NAME OF THE BOY IN THE BOOK “TREASURE ISLAND”?",
+    "answer": "HAWKINS",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "284",
+    "question": "WHAT IS THE LAST NAME OF THE BOXER WHO WON THE BOXING TITLE FROM JOHN L. SULLIVAN?",
+    "answer": "CORBETT",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "285",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO WROTE THE SONG “HOW DEEP IS THE OCEAN”?",
+    "answer": "BERLIN",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "286",
+    "question": "WHAT WAS THE LAST NAME OF BILLY THE KID?",
+    "answer": "BONNEY",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "287",
+    "question": "WHAT IS THE LAST NAME OF THE SINGER WHOSE THEME SONG WAS “WHEN THE BLUE OF THE NIGHT MEETS THE GOLD OF THE DAY”?",
+    "answer": "CROSBY",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "288",
+    "question": "FROM WHAT MUSICAL IS THE SONG “BAUBLES BANGLES AND BEADS”?",
+    "answer": "KISMET",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "289",
+    "question": "WHAT WAS THE LAST NAME OF THE ACTOR WHO PORTRAYED DR. WATSON IN THE SHERLOCK HOLMES SERIES?",
+    "answer": "BRUCE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "290",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO WAS MOST RESPONSIBLE FOR PHOTOGRAPHING THE U.S. CIVIL WAR?",
+    "answer": "BRADY",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "291",
+    "question": "WHAT IS THE NAME OF A NUMBER TWO WOOD IN GOLF?",
+    "answer": "BRASSIE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "292",
+    "question": "WHAT IS THE LAST NAME OF THE POET WHO WROTE THE LINE “INTO EACH LIFE A LITTLE RAIN MUST FALL”?",
+    "answer": "LONGFELLOW",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "293",
+    "question": "WHAT WAS THE NAME OF GENE AUTRY’S HORSE?",
+    "answer": "CHAMPION",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "294",
+    "question": "WHAT IS THE NAME OF THE TOWN THROUGH WHICH LADY GODIVA SUPPOSEDLY MADE HER FAMOUS RIDE?",
+    "answer": "COVENTRY",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "295",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST WOMAN TO SWIM ACROSS THE ENGLISH CHANNEL?",
+    "answer": "EDERLE",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "296",
+    "question": "WHAT IS THE LAST NAME OF THE FIRST FLIER TO FLY SOLO AROUND THE WORLD?",
+    "answer": "POST",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "297",
+    "question": "WHAT IS THE LAST NAME OF THE MAN WHO WROTE THE POEM “IT COULDN’T BE DONE”?",
+    "answer": "GUEST",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "298",
+    "question": "WHO WAS THE RACEHORSE OF THE YEAR FOR MANY SUCCESSIVE YEARS IN THE 1960S?",
+    "answer": "KELSO",
+    "percentage": "0.000",
+    "response_time": ""
+  },
+  {
+    "rank": "299",
+    "question": "WHAT IS THE HIGHEST MOUNTAIN IN SOUTH AMERICA?",
+    "answer": "ACONCAGUA",
+    "percentage": "0.000",
+    "response_time": ""
+  }
+]
