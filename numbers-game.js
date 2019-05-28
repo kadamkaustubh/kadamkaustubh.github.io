@@ -13,3 +13,10 @@ var interval = setInterval(function(){
         clearInterval(interval)
     }
 },1000)
+var c = document.getElementById('canvas')
+var context = c.getContext('2d')
+context.lineWidth = 5
+context.strokeStyle = '#42a5f5'
+context.beginPath()
+context.arc(50,50,50,0,Math.PI*2)
+context.stroke()
