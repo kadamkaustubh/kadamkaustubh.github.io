@@ -13,10 +13,22 @@ var interval = setInterval(function(){
         clearInterval(interval)
     }
 },1000)
-var c = document.getElementById('canvas')
-var context = c.getContext('2d')
-context.lineWidth = 5
-context.strokeStyle = '#42a5f5'
-context.beginPath()
-context.arc(50,50,50,0,Math.PI*2)
-context.stroke()
+
+function setupCanvas(canvas) {
+    // Get the device pixel ratio, falling back to 1.
+    var dpr = window.devicePixelRatio || 1;
+    // Get the size of the canvas in CSS pixels.
+    var rect = canvas.getBoundingClientRect();
+    // Give the canvas pixel dimensions of their CSS
+    // size * the device pixel ratio.
+    canvas.width = rect.width * dpr;
+    canvas.height = rect.height * dpr;
+    var ctx = canvas.getContext('2d');
+    // Scale all drawing operations by the dpr, so you
+    // don't have to worry about the difference.
+    ctx.scale(dpr, dpr);
+    return ctx;
+  }
+
+var draw = SVG('canvas').size(300,300)
+var rect = draw.rect(100, 100)
