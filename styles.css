@@ -48,3 +48,11 @@ html, body {
     width: 500px;
     height: 500px;
   }
+  #big-number-out{
+    font-size: 16pt;
+    width: 50%;
+    margin: 10px;
+  }
+  #number-submit{
+    float: right;
+  }
