@@ -1,0 +1,19 @@
+input: .
+output: .retype
+url: https://kadamkaustubh.github.io # Add your website address here
+branding:
+  title: Kaustubh Kadam
+  label: 
+  logo: static/profile.jpeg
+links:
+- text: Github
+  link: https://retype.com/guides/getting-started/
+  icon: mark-github
+  target: blank
+- text: Linkedin # linkedin
+  link: https://www.linkedin.com/in/kaustubh-kadam-uoft/
+  icon: static\LI-In-Bug.png
+  iconAlign: left
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
