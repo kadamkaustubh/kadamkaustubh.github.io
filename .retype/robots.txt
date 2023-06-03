@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kadamkaustubh.github.io/sitemap.xml.gz

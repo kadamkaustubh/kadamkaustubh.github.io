@@ -1,0 +1,96 @@
+{
+  "version": "3.0.2",
+  "created": "2023-06-03T02:30:08Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\mermaid.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\google_cloud-icon.svg"
+    },
+    {
+      "path": "static\\java-icon.svg"
+    },
+    {
+      "path": "static\\k8s_logo_with_border.svg"
+    },
+    {
+      "path": "static\\li-in-bug.png"
+    },
+    {
+      "path": "static\\li-logo.png"
+    },
+    {
+      "path": "static\\linkedin_logo.svg"
+    },
+    {
+      "path": "static\\minio_bird.png"
+    },
+    {
+      "path": "static\\minio.svg"
+    },
+    {
+      "path": "static\\profile.jpeg"
+    },
+    {
+      "path": "static\\python-logo-only.svg"
+    },
+    {
+      "path": "static\\rancher-logo-cow-black.svg"
+    },
+    {
+      "path": "static\\terraformio-icon.svg"
+    }
+  ]
+}
