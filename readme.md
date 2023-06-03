@@ -36,4 +36,4 @@ We hosted a multi-tenant Kubernetes cluster on-prem powered by Rancher Kubernete
 
 We build data engineering tools to accelerate the development of data engineering pipelines by creating a query optimization and execution engine (Autoflow) along with a frontend UI (Canvas) to provide an integrated development environment for Autoflow.
 
-[!badge text="Java" corners="pill" icon="static\k8s_logo_with_border.svg"] [!badge text="Python" corners="pill" icon="static\java-icon.svg"]
+[!badge text="Java" corners="pill" icon="static\java-icon.svg"] [!badge text="Python" corners="pill" icon="static\python-logo-only.svg"]
